@@ -1,0 +1,11 @@
+{
+  "commitish" : "6.0.2",
+  "iOS" : [
+    {
+      "hash" : "3d1dc340932f1fe6f20821d3cc448691c669ebd4bc62da675d011c45b652d234",
+      "name" : "PokemonAPI",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+    }
+  ]
+}
