@@ -5,8 +5,8 @@
 ## Preview
 
 <p float="left">
-  <img src="https://github.com/renTramontano/PokemonList/blob/master/Images/pokedex.png" width="300"/>
-  <img src="https://github.com/renTramontano/PokemonList/blob/master/Images/pokemonDetail.png" width="300"/>
+  <img src="http://kingborn187.altervista.org/pokedex.png" width="300"/>
+  <img src="http://kingborn187.altervista.org/pokemonDetail.png" width="300"/>
 </p>
 
 ## Installation
