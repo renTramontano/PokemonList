@@ -3,7 +3,7 @@
 **PokemonList** is a iOS APP. Use the public Pokemon API to create a simple collection and to view pokemon information
 
 ## Preview
-![screencast](http://g.recordit.co/LUl0VigrWt.gif)
+![alt text](https://github.com/renTramontano/PokemonList/blob/[branch]/image.jpg?raw=true)
 
 ## Features
 
