@@ -1,6 +1,6 @@
 # # PokemonList
 
-**PokemonList** is a iOS APP. Use the public Pokemon API to create a simple collection and to view pokemon information.
+**PokemonList** is a iOS APP. Use the public Pokemon API to create a simple collection and to show pokemon information.
 
 ## Preview
 
