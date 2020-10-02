@@ -2,10 +2,6 @@
 
 **PokemonList** is a iOS APP. Use the public Pokemon API to create a simple collection and to view pokemon information.
 
-## Dependencies
-
-Pokemon API
-
 ## Preview
 
 <p float="left">
@@ -15,5 +11,9 @@ Pokemon API
 
 ## Installation
 
-TODO
+$ git clone https://github.com/renTramontano/PokemonList
+
+## Dependencies
+
+Pokemon API
 
